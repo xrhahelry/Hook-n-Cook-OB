@@ -13,13 +13,27 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ideas.md",
-                "mode": "preview",
+                "file": "Web Scraper - Hotel Booking.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "f5c31c3c817728e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Procedure.md",
+                "mode": "source",
+                "backlinks": false,
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -79,7 +93,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Ideas.md",
+                "file": "Procedure.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -120,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304
+    "width": 304,
+    "collapsed": true
   },
   "right": {
     "id": "5b6a0923df278272",
@@ -136,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ideas.md",
+                "file": "Procedure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ideas.md",
+                "file": "Procedure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ideas.md"
+                "file": "Procedure.md"
               }
             }
           }
@@ -200,13 +215,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5b49619fbcbc5540",
+  "active": "f5c31c3c817728e5",
   "lastOpenFiles": [
+    "Introduction to Web Scraping.md",
+    "Procedure.md",
+    "Components of Web Scraping.md",
+    "Pasted image 20240311132946.png",
+    "Popular Libraries.md",
     "Web Scraper - Hotel Booking.md",
     "Web Scraper - E-commerce.md",
     "Web Crawler - Search Engine.md",
-    "Ideas.md",
     "Web Scraper - Real Estate.md",
+    "Ideas.md",
+    "dfddfdf.md",
     "agoda.com.md",
     "Excalidraw/Drawing 2024-03-10 21.02.42.excalidraw.md",
     "Excalidraw",
