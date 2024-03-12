@@ -26,14 +26,25 @@
               "type": "markdown",
               "state": {
                 "file": "Procedure.md",
-                "mode": "source",
-                "backlinks": false,
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "d5dabbb6f84e51bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introduction to Web Scraping.md",
+                "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,7 +104,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Procedure.md",
+                "file": "Introduction to Web Scraping.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -134,8 +145,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304,
-    "collapsed": true
+    "width": 304
   },
   "right": {
     "id": "5b6a0923df278272",
@@ -151,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Procedure.md",
+                "file": "Introduction to Web Scraping.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Procedure.md",
+                "file": "Introduction to Web Scraping.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Procedure.md"
+                "file": "Introduction to Web Scraping.md"
               }
             }
           }
@@ -215,13 +225,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f5c31c3c817728e5",
+  "active": "d5dabbb6f84e51bd",
   "lastOpenFiles": [
-    "Introduction to Web Scraping.md",
     "Procedure.md",
+    "Popular Libraries.md",
+    "Beautiful Soup.md",
+    "ZenRows.md",
+    "Puppeteer Overview.md",
+    "Introduction to Web Scraping.md",
+    "Requests.md",
+    "Scrapy.md",
+    "Playwright.md",
+    "Selenium.md",
+    "Framework.md",
     "Components of Web Scraping.md",
     "Pasted image 20240311132946.png",
-    "Popular Libraries.md",
     "Web Scraper - Hotel Booking.md",
     "Web Scraper - E-commerce.md",
     "Web Crawler - Search Engine.md",

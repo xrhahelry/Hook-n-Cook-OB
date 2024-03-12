@@ -1,5 +1,8 @@
 # Popular Libraries
-- BeautifulSoup
-- Scrapy
-- Selenium
-- Playwright
+- [[Beautiful Soup]]
+- [[Scrapy]]
+- [[Selenium]]
+- [[Playwright]]
+- [[Scrapy]]
+- [[Requests]]
+- [[ZenRows]]
