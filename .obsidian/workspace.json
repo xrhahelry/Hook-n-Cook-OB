@@ -4,16 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "40844636afb89bd4",
+        "id": "a91e5a6a901f3fd1",
         "type": "tabs",
         "children": [
           {
-            "id": "fc7c17ae3863bf73",
+            "id": "48522549219182da",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Development Overview.md"
+                "file": "Proposal Presentation.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2eecbec2510ac07e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gantt Chart.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -77,7 +91,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Development Overview.md",
+                "file": "Proposal Presentation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -100,7 +114,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6554983534946917,
+                  "scale": 2.988452789872503,
                   "close": true
                 }
               }
@@ -118,7 +132,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304
+    "width": 304,
+    "collapsed": true
   },
   "right": {
     "id": "5b6a0923df278272",
@@ -134,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Development Overview.md",
+                "file": "Proposal Presentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Development Overview.md",
+                "file": "Proposal Presentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Development Overview.md"
+                "file": "Proposal Presentation.md"
               }
             }
           }
@@ -199,12 +214,25 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "fc7c17ae3863bf73",
+  "active": "48522549219182da",
   "lastOpenFiles": [
+    "Visiting target websites.md",
     "Proposal Presentation.md",
-    "Development Overview.md",
-    "E-commerce Site Scraping.md",
+    "outlined.png",
+    "Database.md",
+    "Gantt Chart.md",
+    "Gradient Colorful Web Development Gantt Chart Graph .png",
+    "_Gantt Chart.png",
+    "Project Flowchart.md",
+    "E-Commerce Web Scraper Flowchart 1.png",
+    "E-Commerce Web Scraper Flowchart.png",
+    "User Interface.md",
     "Introduction to Web Scraping.md",
+    "Development Overview.md",
+    "Framework.md",
+    "Web Scraping API.md",
+    "Web Scraper.md",
+    "E-commerce Site Scraping.md",
     "Components of Web Scraping.md",
     "Popular Libraries.md",
     "Beautiful Soup.md",
@@ -217,14 +245,8 @@
     "Ideas.md",
     "Pasted image 20240311132946.png",
     "Puppeteer Overview.md",
-    "Framework.md",
     "Web Scraper - Hotel Booking.md",
     "Web Crawler - Search Engine.md",
-    "Web Scraper - Real Estate.md",
-    "dfddfdf.md",
-    "agoda.com.md",
-    "Excalidraw/Drawing 2024-03-10 21.02.42.excalidraw.md",
-    "Excalidraw",
-    "Excalidraw/Drawing 2024-03-10 20.10.09.excalidraw.md"
+    "Excalidraw"
   ]
 }
