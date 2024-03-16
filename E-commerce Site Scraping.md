@@ -1,4 +1,5 @@
-# Web Scraper - E-commerce
+# E-commerce Site Scraping
+## Expected Outcome
 - Constantly monitors certain ecommerce sites
 - retrieves information about marked products
 - stores retrieved information in a database
@@ -7,3 +8,5 @@
 1. [Alibaba](https://www.alibaba.com/)
 2. [Daraz](https://www.daraz.com.np/)
 3. [Amazon](https://www.amazon.com/)
+
+# [[Introduction to Web Scraping]]

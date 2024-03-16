@@ -4,47 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "8a8481017967722f",
+        "id": "e749098fb3ce24a5",
         "type": "tabs",
         "children": [
           {
-            "id": "5b49619fbcbc5540",
+            "id": "e9a582630f51dcc1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Web Scraper - Hotel Booking.md",
-                "mode": "source",
-                "source": true
+                "file": "Development Overview.md"
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "bf24259f9391f823",
+        "type": "tabs",
+        "children": [
           {
-            "id": "f5c31c3c817728e5",
+            "id": "693f0fa2c126966b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Procedure.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "d5dabbb6f84e51bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Introduction to Web Scraping.md",
+                "file": "Proposal Presentation.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +95,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Introduction to Web Scraping.md",
+                "file": "Proposal Presentation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -161,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction to Web Scraping.md",
+                "file": "Proposal Presentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introduction to Web Scraping.md",
+                "file": "Proposal Presentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introduction to Web Scraping.md"
+                "file": "Proposal Presentation.md"
               }
             }
           }
@@ -222,29 +213,32 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "d5dabbb6f84e51bd",
+  "active": "693f0fa2c126966b",
   "lastOpenFiles": [
-    "Procedure.md",
+    "Development Overview.md",
+    "Proposal Presentation.md",
+    "E-commerce Site Scraping.md",
+    "Introduction to Web Scraping.md",
+    "Components of Web Scraping.md",
     "Popular Libraries.md",
     "Beautiful Soup.md",
-    "ZenRows.md",
-    "Puppeteer Overview.md",
-    "Introduction to Web Scraping.md",
-    "Requests.md",
-    "Scrapy.md",
     "Playwright.md",
+    "Requests.md",
+    "ZenRows.md",
     "Selenium.md",
-    "Framework.md",
-    "Components of Web Scraping.md",
+    "Scrapy.md",
+    "Procedure.md",
+    "Ideas.md",
     "Pasted image 20240311132946.png",
+    "Puppeteer Overview.md",
+    "Framework.md",
     "Web Scraper - Hotel Booking.md",
-    "Web Scraper - E-commerce.md",
     "Web Crawler - Search Engine.md",
     "Web Scraper - Real Estate.md",
-    "Ideas.md",
     "dfddfdf.md",
     "agoda.com.md",
     "Excalidraw/Drawing 2024-03-10 21.02.42.excalidraw.md",
