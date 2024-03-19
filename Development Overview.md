@@ -6,16 +6,20 @@ kanban-plugin: basic
 
 ## To do
 
+- [ ] Image Comparision
+- [ ] Web Scraping
 
 
 ## Current Agenda
 
-- [ ] [[Proposal Presentation]]
+- [ ] Frontend
+- [ ] Database Setup with Backend
 
 
 ## Finished
 
 - [ ] Proposal
+- [ ] [[Proposal Presentation]]
 
 
 
